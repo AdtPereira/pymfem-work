@@ -2,3 +2,6 @@ mfem==4.10.0
 numpy
 matplotlib
 numba
+glvis
+ipykernel
+requests
